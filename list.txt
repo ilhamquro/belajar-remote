@@ -1,0 +1,6 @@
+Nama Barang	:
+1. Meja
+2. Kursi
+3. Papan Tulis
+4. Monitor
+5. CPU
