@@ -1,0 +1,4 @@
+Buah	:
+1. Peer
+2. Mangga
+3. Apel
